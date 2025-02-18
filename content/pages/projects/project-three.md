@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
