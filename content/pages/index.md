@@ -20,7 +20,7 @@ sections:
       Berlin-based alternative pop artist Simon Jela fusing the soul of timeless
       rock with modern pop finesse. His voice stands out with its warmth and
       rich precise tone. It’s both soothing and powerful, leaving listeners
-      captivated from the first moment. 
+      captivated from the first moment
     styles:
       self:
         height: auto
