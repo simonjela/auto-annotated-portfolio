@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ABOUT SIMON JELA
+title: Who is he?
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
