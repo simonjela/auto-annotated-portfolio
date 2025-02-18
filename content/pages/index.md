@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Music like an intimate late-night confession of a close friend and
+      FEels like an intimate late-night confession of a close friend and
       danceable joyful rhythms at the same time.
     subtitle: >-
       Berlin-based alternative pop artist Simon Jela fusing the soul of timeless
