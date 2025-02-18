@@ -14,11 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Berlin-based alternative pop artist fusing the soul of timeless rock with
-      modern pop finesse. His voice stands out with its warmth and rich precise
-      tone. It’s both soothing and powerful, leaving listeners captivated from
-      the first moment. He’s delivering danceable music that also makes you feel
-      like listening to an intimate late-night confession of a close friend.
+      Danceable music that also makes you feel like listening to an intimate
+      late-night confession of a close friend.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
