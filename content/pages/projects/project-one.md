@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/SimonJela_pic_credit_JohannaBerghorn.jpg
-  altText: Project thumbnail image
+  altText: Profile Pic - credit Johanna Berghorn
 media:
   type: ImageBlock
   url: /images/bg1.jpg
