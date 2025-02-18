@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
-  altText: Project thumbnail image
+  altText: Safe Place Cover - credit Peal GmbH
 media:
   type: ImageBlock
   url: /images/bg3.jpg
