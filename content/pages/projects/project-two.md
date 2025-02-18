@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
-  altText: Project thumbnail image
+  altText: Tequila Cover - credit Johanna Berghorn
 media:
   type: ImageBlock
   url: /images/bg2.jpg
