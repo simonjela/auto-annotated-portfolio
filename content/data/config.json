@@ -15,16 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Events",
-                "url": "/events"
-            },
-            {
-                "type": "Link",
-                "label": "EPK",
-                "url": "/epk"
-            },
-            {
-                "type": "Link",
                 "label": "About",
                 "altText": "",
                 "url": "/About",
@@ -32,6 +22,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Events",
+                "url": "/events"
+            },
+            {
+                "type": "Link",
+                "label": "EPK",
+                "url": "/epk"
             }
         ],
         "socialLinks": [
