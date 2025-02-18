@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       Feels like an intimate late-night confession of a close friend but
-      danceable at the same time.
+      danceable at the same time
     subtitle: >-
       Berlin-based alternative pop artist Simon Jela fusing the soul of timeless
       rock with modern pop finesse. His voice stands out with its warmth and
