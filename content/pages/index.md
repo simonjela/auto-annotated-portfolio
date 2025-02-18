@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Feels like an intimate late-night confession - still danceable as f***
+    title: Feels like an intimate late-night confession - still danceable as f***!
     subtitle: >-
       Berlin-based alternative pop artist Simon Jela fusing the soul of timeless
       rock with modern pop finesse. His voice stands out with its warmth and
