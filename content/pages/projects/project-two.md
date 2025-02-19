@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   A soundtrack for sleepless nights, intense desires and moments that touch you
   between the lines. An EP like the last ray of sunshine before the cold season.
-  Just one sip of Simon Jela’s ‘Tequila’ and suddenly November dances into the
+  Just one sip of Simon Jela’s ‘Tequila’ and you find yourself dancing into the
   warm morning hours at the beach bar.
 featuredImage:
   type: ImageBlock
