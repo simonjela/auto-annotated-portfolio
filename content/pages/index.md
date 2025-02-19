@@ -83,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: More
+    subtitle: '->'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
