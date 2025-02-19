@@ -7,21 +7,24 @@ sections:
     variant: variant-a
     title: contact information
     subtitle: all you need to get in touch <3
-    text: |+
+    text: |
       Management:
 
       Kathleen Kinzel
+
       hopkinz.MANAGEMENT & MARKETING
-      info\@hopkinz.de
+
+      <info@hopkinz.de>
+
       <https://hopkinz.de/>
 
-
+      \_\_\_\_\_\_\_\_\_\_
 
       Booking:
 
-      live\@hopkinz.de
+      <live@hopkinz.de>
 
-
+      \_\_\_\_\_\_\_\_\_\_
 
       Credits:
 
@@ -32,7 +35,6 @@ sections:
       [Rouge & Math](https://www.rougemath.com)
 
       [Luca Heil](https://www.xing.com/profile/Luca_Heil2)
-
     elementId: ''
     styles:
       self:
