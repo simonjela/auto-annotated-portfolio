@@ -3,29 +3,32 @@ type: ProjectLayout
 title: '"Tequila" EP'
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Rhythm of the beat
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A soundtrack for sleepless nights, intense desires and moments that touch you
+  between the lines. An EP like the last ray of sunshine before the cold season.
+  Just one sip of Simon Jela’s ‘Tequila’ and you find yourself dancing into the
+  warm morning hours at the beach bar.
 featuredImage:
   type: ImageBlock
   url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
   altText: Tequila Cover - credit Johanna Berghorn
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
+  url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
+  altText: Tequila Cover
 ---
+[LISTEN HERE: https://ffm.to/tequila-ep](https://ffm.to/tequila-ep)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Whether summer, autumn, winter, or spring – with his EP ‘Tequila’ Simon Jela mixes the perfect cocktail for every season. Summer heat, autumn melancholy, and the thrill of spring – sometimes light and carefree, sometimes deep and melancholic – the five songs on the EP capture the full cycle of the seasons. Each track is a moment to savor, like the freshness of a spring morning, the ease of a summer day, the contemplation of an autumn evening, or the depth of a winter night. ‘Tequila’ isn’t just a summer hit; it’s a musical journey that celebrates all facets of life. On November 29, this journey reaches its peak – intense, moving, and full of unexpected twists.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Tastes like sea salt and lemon, sounds like dancing, and leaves a bittersweet aftertaste of summer nights that pass all too quickly. With his latest track ‘Tequila’ Simon Jela also serves us his new EP ‘Tequila’ – a musical cocktail that not only gets your hips moving but also takes your soul on a journey. Not pop from stiff genre boxes – ‘Tequila’ is the soundtrack for anyone floating between self-discovery, longing, and the fleeting magic of life. Five tracks that flow and fuse as passionately as a hot dance at a sweaty beach party, except now the dance floor is your living room – or maybe your heart.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The title track is called ‘Tequila’ and is inspired by the rhythms of Carlos Santana. Don’t think of the dim corner bar but rather a tropical beach bar, with the sun just setting and the Latin-infused rhythms so seductive that you forget your daily worries – or at least let them go for a moment. It’s about the play between closeness and distance, capturing fleeting moments, the desire that comes and goes as naturally as the tides. It is a song that brings summer, seduction, and passion – not grand love, but perhaps a sweet night of intense closeness. Ryan Nasci (Harry Styles, Portugal. The Man, The Head And The Heart, Bülow, Lykke Li) in LA, USA, gave the song a unique touch in production, and newcomer Christoph Oswald in Mannheim, Germany, produced it to feel like the rhythm of a crowded dance floor, inevitably pulling you into motion.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+But ‘Tequila’ is more than just a hot summer track for cold winter days. On his EP, Simon Jela effortlessly merges pop, R\&B, rock, Latin beats, and dance, revealing a different side of himself in each of the five tracks. Sometimes introspective and gentle, sometimes energetic and captivating.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Whether you’re searching for summer in the winter or getting lost in the heartfelt lyrics – this EP makes you feel on the same wavelength as the artist. Because Simon stays true to himself: ‘Music is my safe space to express my thoughts and feelings unfiltered.’ And you can feel that. In every note, every beat, every word. And as a little bonus, there’s an unreleased track, ‘Light It Up,’ which will grab you in its own way…
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Ready for a taste of summer in winter?
+‘Tequila’ is waiting for you!
