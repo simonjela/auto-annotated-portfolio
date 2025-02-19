@@ -3,7 +3,7 @@ type: ProjectLayout
 title: '"Safe Place" EP'
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: I create your safe place
 description: >-
   This is the story of a debut. Simon Jela’s debut. And his greatest strength?
   Absolute authenticity.
