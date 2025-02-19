@@ -18,7 +18,7 @@ media:
   url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
   altText: Project image
 ---
-<https://ffm.to/tequila-ep>
+[LISTEN HERE: https://ffm.to/tequila-ep](https://ffm.to/tequila-ep)
 
 Whether summer, autumn, winter, or spring – with his EP ‘Tequila’ Simon Jela mixes the perfect cocktail for every season. Summer heat, autumn melancholy, and the thrill of spring – sometimes light and carefree, sometimes deep and melancholic – the five songs on the EP capture the full cycle of the seasons. Each track is a moment to savor, like the freshness of a spring morning, the ease of a summer day, the contemplation of an autumn evening, or the depth of a winter night. ‘Tequila’ isn’t just a summer hit; it’s a musical journey that celebrates all facets of life. On November 29, this journey reaches its peak – intense, moving, and full of unexpected twists.
 
