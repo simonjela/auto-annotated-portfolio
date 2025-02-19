@@ -8,6 +8,8 @@ sections:
     title: contact information
     subtitle: Get in touch with us <3
     text: |
+      \_\_\_\_\_\_\_\_\_\_
+
       Management:
 
       Kathleen Kinzel
