@@ -103,6 +103,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: '->'
+    subtitle: ''
 metaTitle: Simon Jela
 ---
