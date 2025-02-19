@@ -3,7 +3,7 @@ type: ProjectLayout
 title: '"Tequila" EP'
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Rhythm of the beat
 description: >-
   A soundtrack for sleepless nights, intense desires and moments that touch you
   between the lines. An EP like the last ray of sunshine before the cold season.
