@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: contact information
-    subtitle: The section subtitle
+    subtitle: all you need to get in touch <3
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
