@@ -27,7 +27,7 @@ sections:
       text:
         textAlign: left
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: Recent
     actions:
       - type: Link
         label: See all projects
