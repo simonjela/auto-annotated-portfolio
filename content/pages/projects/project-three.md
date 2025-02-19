@@ -20,6 +20,8 @@ media:
 
 ## **The Story of a debut**
 
+[LISTEN HERE: https://ffm.to/simonjela\_safeplace](https://ffm.to/simonjela_safeplace)
+
 *"Safe Place"—this is the story of a debut. Simon Jela’s debut. And his greatest strength? Absolute authenticity.*
 His only rule: Do what feels right, not what’s trending. That’s the foundation of everything he creates. Let others chase the hype—Simon Jela stays true to himself.
 
@@ -39,8 +41,6 @@ And this? This is just the beginning.
 
 Alright then, let’s hear it!
 
-
-
 ### **The First Notes**
 
 Warm piano, a little guitar—nothing more.
@@ -53,9 +53,7 @@ And the crazy part? This was the first song Simon Jela ever wrote. **How is tha
 
 Simon just shrugs. He had watched a documentary about his favorite artist at the time—and suddenly, nothing made more sense than this: **he had to start writing his own music.** There was no other option.
 
-From that moment on, the songs just kept flowing. He could already fill entire albums—but let’s take it slow. **No rush.**There’s always time for double albums, live recordings, and Christmas specials later. For now, these **five** tracks on his debut EP **speak for themselves.**
-
-
+From that moment on, the songs just kept flowing. He could already fill entire albums—but let’s take it slow. \*\*No rush.\*\*There’s always time for double albums, live recordings, and Christmas specials later. For now, these **five** tracks on his debut EP **speak for themselves.**
 
 ### **A Journey Through the EP**
 
@@ -68,8 +66,6 @@ His songs explore sadness, but they aren’t necessarily dressed in minor chords
 For him, the real comfort lies in showing people that they aren’t alone. That it’s **okay** to not have a picture-perfect Instagram life. Editing out emotions with Photoshop? **Simon Jela doesn’t offer that.**
 
 Musically, "In My Mind" delivers far more than just delicately played piano. Take *Chances*—the way it kicks in with that **crunchy, raw** energy. This isn’t just some songwriter strumming on a barstool. **This has power.** A blend of pop and folk wrapped in a **timeless rock aesthetic**—a sound that confidently stands on its own.
-
-
 
 ### **Songs That Leave a Mark**
 
@@ -87,8 +83,6 @@ Simon’s most personal story. A contemporary ballad about **not always being t
 The fifth and final track? **"Safe Place."** Emotional lyrics, lively instrumentals, and a touch of one of Simon’s all-time favorite bands—**Toto.** This song **captures that butterflies-in-your-stomach feeling**—the hesitation, the excitement, the **"should I… or shouldn’t I?"** And at its core, a simple truth: **you don’t have to be perfect.**
 
 A song about **the beauty of having someone who makes you feel safe.**
-
-
 
 ### **And So It Begins...**
 
