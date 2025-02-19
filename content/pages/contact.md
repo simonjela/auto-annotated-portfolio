@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: contact information
-    subtitle: all you need to get in touch <3
+    subtitle: Get in touch
     text: |
       Management:
 
