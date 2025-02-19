@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/SimonJela_2023_1.jpg
+      url: /images/SimonJela_2023_1_quer_website.png
       altText: Simon Jela by Johanna Berghorn
       caption: Caption of the image
       elementId: ''
