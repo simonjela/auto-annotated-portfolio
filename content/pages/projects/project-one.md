@@ -9,8 +9,7 @@ description: >-
   modern pop finesse. His voice stands out with its warmth and rich precise
   tone. It’s both soothing and powerful, leaving listeners captivated from the
   first moment. He’s delivering danceable music that also makes you feel like
-  listening to an intimate late-night confession of a close friend. Photo
-  credit: Johanna Berghorn
+  listening to an intimate late-night confession of a close friend.
 featuredImage:
   type: ImageBlock
   url: /images/SimonJela_pic_credit_JohannaBerghorn.jpg
