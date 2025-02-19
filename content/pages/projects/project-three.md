@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
-  altText: Project image
+  altText: Safe Place Cover
 ---
 # **Simon Jela**
 
