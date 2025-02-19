@@ -49,7 +49,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/SimonJela_2023_1.jpg
-      altText: altText of the image
+      altText: Simon Jela by Johanna Berghorn
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
