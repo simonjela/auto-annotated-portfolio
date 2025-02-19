@@ -28,6 +28,12 @@ sections:
 
       \_\_\_\_\_\_\_\_\_\_
 
+      Label:
+
+      limecaviarmusic\@gmail.com
+
+      \_\_\_\_\_\_\_\_\_\_
+
       Credits:
 
       [Johanna Berghorn](https://johanna-berghorn.com)
