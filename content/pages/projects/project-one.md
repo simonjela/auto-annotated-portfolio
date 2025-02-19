@@ -14,7 +14,7 @@ featuredImage:
   altText: Profile Pic - credit Johanna Berghorn
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/SimonJela_pic_credit_JohannaBerghorn.jpg
   altText: Project image
 ---
 **Simon Jela is a Berlin-based artist who blends the soul of classic rock with the sleek finesse of modern pop.** 
