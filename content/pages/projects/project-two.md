@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
-  altText: Project image
+  altText: Tequila Cover
 ---
 [LISTEN HERE: https://ffm.to/tequila-ep](https://ffm.to/tequila-ep)
 
