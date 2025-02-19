@@ -5,8 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  "Safe Place"—this is the story of a debut. Simon Jela’s debut. And his
-  greatest strength? Absolute authenticity.
+  This is the story of a debut. Simon Jela’s debut. And his greatest strength?
+  Absolute authenticity.
 featuredImage:
   type: ImageBlock
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
