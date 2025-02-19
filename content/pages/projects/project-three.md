@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  "Safe Place"—this is the story of a debut. Simon Jela’s debut. And his
+  greatest strength? Absolute authenticity.
 featuredImage:
   type: ImageBlock
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
