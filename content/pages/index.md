@@ -46,12 +46,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/SimonJela_2023_1_quer_website.png
-      altText: Simon Jela by Johanna Berghorn
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
