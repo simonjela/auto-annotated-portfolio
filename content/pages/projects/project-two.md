@@ -5,10 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  Tequila: A soundtrack for sleepless nights, intense desires and moments that
-  touch you between the lines. An EP like the last ray of sunshine before the
-  cold season. Just one sip of Simon Jela’s ‘Tequila’ and suddenly November
-  dances into the warm morning hours at the beach bar.
+  A soundtrack for sleepless nights, intense desires and moments that touch you
+  between the lines. An EP like the last ray of sunshine before the cold season.
+  Just one sip of Simon Jela’s ‘Tequila’ and suddenly November dances into the
+  warm morning hours at the beach bar.
 featuredImage:
   type: ImageBlock
   url: /images/Tequila_SimonJela_COVER_komprimiert.jpg
