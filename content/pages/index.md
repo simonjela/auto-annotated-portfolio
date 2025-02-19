@@ -49,7 +49,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: ''
     text: |
       ![](/images/SimonJela_2023_1_quer_website.png)
     elementId: ''
