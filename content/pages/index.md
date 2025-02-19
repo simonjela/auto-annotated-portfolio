@@ -46,29 +46,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: |
-      ![](/images/SimonJela_2023_1_quer_website.png)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
