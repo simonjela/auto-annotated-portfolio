@@ -5,9 +5,12 @@ colors: colors-a
 date: '2021-10-15'
 client: Simon Jela
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Simon Jela is a Berlin-based artist fusing the soul of timeless rock with
+  modern pop finesse. His voice stands out with its warmth and rich precise
+  tone. It’s both soothing and powerful, leaving listeners captivated from the
+  first moment. He’s delivering danceable music that also makes you feel like
+  listening to an intimate late-night confession of a close friend. Photo
+  credit: Johanna Berghorn
 featuredImage:
   type: ImageBlock
   url: /images/SimonJela_pic_credit_JohannaBerghorn.jpg
