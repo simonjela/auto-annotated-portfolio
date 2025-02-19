@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Feels like an intimate late-night confession - still danceable as f***!
     subtitle: >-
       Berlin-based alternative pop artist Simon Jela fusing the soul of timeless
