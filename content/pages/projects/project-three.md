@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: '"Safe Place" EP'
 colors: colors-a
-date: '2022-01-22'
+date: '2021-10-21'
 client: I create your safe place
 description: >-
   This is the story of a debut. Simon Jela’s debut. And his greatest strength?
@@ -16,14 +16,9 @@ media:
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
   altText: Safe Place Cover
 ---
-# **Simon Jela**
-
-## **The Story of a debut**
-
 [LISTEN HERE: https://ffm.to/simonjela\_safeplace](https://ffm.to/simonjela_safeplace)
 
-*"Safe Place"—this is the story of a debut. Simon Jela’s debut. And his greatest strength? Absolute authenticity.*
-His only rule: Do what feels right, not what’s trending. That’s the foundation of everything he creates. Let others chase the hype—Simon Jela stays true to himself.
+Do what feels right, not what’s trending. That’s Simon Jela's only rule and the foundation of everything he creates. Let others chase the hype—Simon Jela stays true to himself.
 
 Simon Jela doesn’t just love music; he **lives** it. Growing up in a rock-infused household somewhere in the Hessian province near Frankfurt, he had an early introduction to the greats. His dad’s record collection? Way cooler than LEGO. By the age of 23, he had already built a deep-rooted love for rock and pop, shaped by legends like The Rolling Stones, Joe Cocker, and classic rock icons like Chicago and Toto.
 
@@ -98,3 +93,7 @@ Okay, but maybe this little twist is still worth mentioning: The artist whose do
 
 Wouldn’t have expected to be grateful to that guy, but…
 **here we are.**
+
+***
+
+**Text by Linus Volkmann**
