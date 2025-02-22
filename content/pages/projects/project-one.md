@@ -7,7 +7,7 @@ client: Simon Jela
 description: >-
   Simon Jela is a Berlin-based artist fusing the soul of timeless rock with
   modern pop finesse. His voice stands out with its warmth and rich precise
-  tone. It’s both soothing and powerful...click for more
+  tone. It’s both soothing and powerful
 featuredImage:
   type: ImageBlock
   url: /images/SimonJela_pic_credit_JohannaBerghorn.jpg
