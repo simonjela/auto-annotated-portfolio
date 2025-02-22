@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: About
 colors: colors-a
-date: ''
+date: '2025-02-01'
 client: Simon Jela
 description: >-
   Simon Jela is a Berlin-based artist fusing the soul of timeless rock with
