@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: '"Safe Place" EP'
 colors: colors-a
-date: '2022-10-21'
+date: '0020-10-21'
 client: I create your safe place
 description: >-
   This is the story of a debut. Simon Jela’s debut. And his greatest strength?
