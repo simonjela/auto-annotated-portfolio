@@ -16,10 +16,6 @@ media:
   url: /images/1_EP_Cover_Simon Jela_Safe Place_RGB_4096x4096px.jpg
   altText: Safe Place Cover
 ---
-# **Simon Jela**
-
-## **The Story of a debut**
-
 [LISTEN HERE: https://ffm.to/simonjela\_safeplace](https://ffm.to/simonjela_safeplace)
 
 *"Safe Place"—this is the story of a debut. Simon Jela’s debut. And his greatest strength? Absolute authenticity.*
@@ -98,3 +94,7 @@ Okay, but maybe this little twist is still worth mentioning: The artist whose do
 
 Wouldn’t have expected to be grateful to that guy, but…
 **here we are.**
+
+****
+
+**Text by Linus Volkmann**
