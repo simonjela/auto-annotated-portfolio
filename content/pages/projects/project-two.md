@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: '"Tequila" EP'
 colors: colors-a
-date: '2021-12-02'
+date: '2021-12-29'
 client: Rhythm of the beat
 description: >-
   A soundtrack for sleepless nights, intense desires and moments that touch you
