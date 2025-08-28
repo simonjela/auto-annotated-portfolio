@@ -8,9 +8,15 @@ sections:
     title: contact information
     subtitle: Get in touch with us <3
     text: |
+      *Booking:*
+
+      [booking@simonjela.com](mailto:live@hopkinz.de)
+
+      <live@hopkinz.de>
+
       \_\_\_\_\_\_\_\_\_\_
 
-      Management:
+      *Management:*
 
       Kathleen Kinzel
 
@@ -22,19 +28,13 @@ sections:
 
       \_\_\_\_\_\_\_\_\_\_
 
-      Booking:
+      *Label:*
 
-      <live@hopkinz.de>
-
-      \_\_\_\_\_\_\_\_\_\_
-
-      Label:
-
-      limecaviarmusic\@gmail.com
+      <limecaviarmusic@gmail.com>
 
       \_\_\_\_\_\_\_\_\_\_
 
-      Credits:
+      *Credits:*
 
       [Johanna Berghorn](https://johanna-berghorn.com)
 
