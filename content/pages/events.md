@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: 'Upcoming events '
+    title: 'Events '
     subtitle: 'will be shown here:'
     text: |
       *LIVE at Museumsuferfest - Frankfurt (Main) / AUG 2022*
