@@ -24,13 +24,15 @@ sections:
 
       Booking:
 
+      [booking@simonjela.com](mailto:live@hopkinz.de)
+
       <live@hopkinz.de>
 
       \_\_\_\_\_\_\_\_\_\_
 
       Label:
 
-      limecaviarmusic\@gmail.com
+      <limecaviarmusic@gmail.com>
 
       \_\_\_\_\_\_\_\_\_\_
 
