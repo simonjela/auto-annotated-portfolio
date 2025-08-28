@@ -5,19 +5,20 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: 'Upcoming events '
+    title: 'Events '
     subtitle: 'will be shown here:'
-    text: >
-      *No upcoming events at the moment*
+    text: |
+      *LIVE at Museumsuferfest - Frankfurt (Main) / AUG 2022*
 
+      *LIVE at Bar Bobu - Berlin / SEP 2024*
 
-      **
+      *LIVE at Slaughterhouse - Berlin / JUNE 2025 (cancelled)*
 
+      *LIVE at House Of Music - Berlin / JUNE 2025*
 
-      *Recent:*
+      *LIVE at Blankit Festival - Berlin / JULY 2025*
 
-
-      [**![](/images/SimonJela_LIVE.jpg)https://www.dropbox.com/scl/fi/4tng7h4lx8dau4qgnt7tm/SimonJela\_LIVE\_Video\_2025.mp4?rlkey=l2gnddir0mm4xrk0zcl32xdmo\&e=1\&st=7wcjjurq\&dl=0](https://www.dropbox.com/scl/fi/4tng7h4lx8dau4qgnt7tm/SimonJela_LIVE_Video_2025.mp4?rlkey=l2gnddir0mm4xrk0zcl32xdmo\&e=1\&st=7wcjjurq\&dl=0)
+      *LIVE at Wild at Heart - Berlin / OCT 2025 (OCT 9, 2025)*
     elementId: ''
     styles:
       self:
