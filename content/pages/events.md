@@ -7,18 +7,28 @@ sections:
     variant: variant-a
     title: 'Events '
     subtitle: 'will be shown here:'
-    text: |
+    text: >+
       *LIVE at Museumsuferfest - Frankfurt (Main) / AUG 2022*
+
 
       *LIVE at Bar Bobu - Berlin / SEP 2024*
 
+
       *LIVE at Slaughterhouse - Berlin / JUNE 2025 (cancelled)*
+
 
       *LIVE at House Of Music - Berlin / JUNE 2025*
 
+
       *LIVE at Blankit Festival - Berlin / JULY 2025*
 
-      *LIVE at Wild at Heart - Berlin / OCT 2025 (OCT 9, 2025)*
+
+      *LIVE at Wild at Heart - Berlin / OCT 2025 (OCT 9, 2025)
+
+      \--> BUY YOUR TICKETS HERE: 
+
+      *https\://www\.koka36.de/responsiv/event\_site.php?event=179949\&fbclid=PAZXh0bgNhZW0CMTEAAaeko870IyZ\_3SFePdMKoRmWPUu4uiwFcAPUR46fxsx-D6fQtRHq5zbpp1WzNA\_aem\_s73eP3xCEICXm0gSFHPWQw
+
     elementId: ''
     styles:
       self:
